@@ -1,6 +1,11 @@
 # TensorFlow for Arm
+build tensorflow-whl for python3.9 on linux_arm
+
+[Download](https://github.com/Sakurasan/TensorFlow-on-Arm/releases)
 
 ```
+wget https://github.com/Sakurasan/TensorFlow-on-Arm/releases/download/v2.9.1/tensorflow-2.9.1-cp39-cp39-linux_aarch64.whl
+
 pip install tensorflow-2.9.1-cp39-cp39-linux_aarch64.whl
 ```
 
